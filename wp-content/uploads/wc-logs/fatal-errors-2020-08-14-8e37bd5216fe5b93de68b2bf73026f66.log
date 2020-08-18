@@ -1,0 +1,27 @@
+2020-08-14T16:39:09+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in E:\0web\wamp64\www\malhotra_vineet57\wp-content\plugins\mailchimp-for-woocommerce\admin\class-mailchimp-woocommerce-admin.php:650
+Stack trace:
+#0 E:\0web\wamp64\www\malhotra_vineet57\wp-includes\class-wp-hook.php(287): MailChimp_WooCommerce_Admin->mailchimp_woocommerce_ajax_oauth_start('')
+#1 E:\0web\wamp64\www\malhotra_vineet57\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 E:\0web\wamp64\www\malhotra_vineet57\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 E:\0web\wamp64\www\malhotra_vineet57\wp-admin\admin-ajax.php(175): do_action('wp_ajax_mailchi...')
+#4 {main}
+  thrown in E:\0web\wamp64\www\malhotra_vineet57\wp-content\plugins\mailchimp-for-woocommerce\admin\class-mailchimp-woocommerce-admin.php on line 650
+
+2020-08-14T16:39:20+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in E:\0web\wamp64\www\malhotra_vineet57\wp-content\plugins\mailchimp-for-woocommerce\admin\class-mailchimp-woocommerce-admin.php:650
+Stack trace:
+#0 E:\0web\wamp64\www\malhotra_vineet57\wp-includes\class-wp-hook.php(287): MailChimp_WooCommerce_Admin->mailchimp_woocommerce_ajax_oauth_start('')
+#1 E:\0web\wamp64\www\malhotra_vineet57\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 E:\0web\wamp64\www\malhotra_vineet57\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 E:\0web\wamp64\www\malhotra_vineet57\wp-admin\admin-ajax.php(175): do_action('wp_ajax_mailchi...')
+#4 {main}
+  thrown in E:\0web\wamp64\www\malhotra_vineet57\wp-content\plugins\mailchimp-for-woocommerce\admin\class-mailchimp-woocommerce-admin.php on line 650
+
+2020-08-14T16:39:21+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in E:\0web\wamp64\www\malhotra_vineet57\wp-content\plugins\mailchimp-for-woocommerce\admin\class-mailchimp-woocommerce-admin.php:650
+Stack trace:
+#0 E:\0web\wamp64\www\malhotra_vineet57\wp-includes\class-wp-hook.php(287): MailChimp_WooCommerce_Admin->mailchimp_woocommerce_ajax_oauth_start('')
+#1 E:\0web\wamp64\www\malhotra_vineet57\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 E:\0web\wamp64\www\malhotra_vineet57\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 E:\0web\wamp64\www\malhotra_vineet57\wp-admin\admin-ajax.php(175): do_action('wp_ajax_mailchi...')
+#4 {main}
+  thrown in E:\0web\wamp64\www\malhotra_vineet57\wp-content\plugins\mailchimp-for-woocommerce\admin\class-mailchimp-woocommerce-admin.php on line 650
+
